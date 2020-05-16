@@ -8,4 +8,4 @@ This project is intended for data storage.
 The project consists of a one-page site, dedicated to data storage, some of the functions and advantages of this site are given.
  
 The following knowledge and technologies are implemented in the project:
-** HTML, semantic tags, CSS, Flexbox-layout, positioning, animation and transformation, BEM, Nested. **
+**HTML, semantic tags, CSS, Flexbox-layout, positioning, animation and transformation, BEM, Nested. **
