@@ -1,0 +1,8 @@
+@import url(./__title/preview__title.css);
+@import url(./__text/preview__text.css);
+@import url(./__image/preview__image.css);
+
+.preview {
+  margin: 130px auto 0;
+  position: relative;
+}

@@ -1,0 +1,20 @@
+@import url(./__columns/footer__columns.css);
+@import url(./__column/footer__column.css);
+@import url(./__lable/footer__lable.css);
+@import url(./__column-lable/footer__column-lable.css);
+@import url(./__column-adress/footer__column-adress.css);
+@import url(./__column-web-adress/footer__column-web-adress.css);
+@import url(./__column-heading/footer__column-heading.css);
+@import url(./__column-links/footer__column-links.css);
+@import url(./__column-link/footer__column-link.css);
+@import url(./__column-item/footer__column-item.css);
+@import url(./__bottom/footer__bottom.css);
+@import url(./__copyright/footer__copyright.css);
+@import url(./__chat-support/footer__chat-support.css);
+@import url(.);
+@import url(.);
+
+.footer {
+  margin: 150px auto 0;
+  min-height: 500px;
+}

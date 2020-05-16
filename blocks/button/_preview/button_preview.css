@@ -1,0 +1,8 @@
+.button_preview {
+  background: #9C69E2;
+  transition: background-color 0.2s linear; 
+}
+
+.button_preview:hover {
+  background-color: #F063B8;
+}

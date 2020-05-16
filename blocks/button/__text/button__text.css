@@ -1,0 +1,11 @@
+@import url(./_color/button__text_color_white.css);
+@import url(./_color/button__text_color_black.css);
+
+.button__text {
+  font-family: Avenir-Heavy, sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 160%;
+  margin: 0 30px;
+  text-decoration: none;
+}

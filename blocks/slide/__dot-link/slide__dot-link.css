@@ -1,0 +1,19 @@
+.slide__dot-link {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  margin-right: 10px;
+  transition: transform 0.1s ease-in;
+}
+
+.slide__dot-link_active {
+  width: 10px;
+  height: 10px;
+  background: #F063B8;
+}
+
+.slide__dot-link:hover:not(:first-child) {
+  background: #F063B8;
+  transform: scale(2.0);
+}

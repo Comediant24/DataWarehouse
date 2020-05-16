@@ -1,0 +1,11 @@
+@import url(./__title/feedback__title.css);
+
+.feedback {
+  width: 1118px;
+  min-height: 709px;
+  background: #9C69E2;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}

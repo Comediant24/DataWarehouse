@@ -1,0 +1,8 @@
+@import url(./_color/table__background_color_purple.css);
+@import url(./_color/table__background_color_blue.css);
+@import url(./_color/table__background_color_downy.css);
+@import url(./_color/table__background_color_magenta.css);
+
+.table__background {
+  background-repeat: no-repeat;
+}

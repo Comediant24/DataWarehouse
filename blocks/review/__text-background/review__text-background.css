@@ -1,0 +1,10 @@
+.review__text-background {
+  background: linear-gradient(270deg, #FFFFFF 9.75%, rgba(255, 255, 255, 0) 100%);
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}

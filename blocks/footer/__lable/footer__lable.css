@@ -1,0 +1,7 @@
+.footer__lable {
+  display: flex;
+  align-items: center;
+  margin: 0 0 65px 0;
+  text-decoration: none;
+  width: fit-content;
+}

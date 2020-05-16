@@ -1,0 +1,14 @@
+@import url(./_order/review__cell_order_first.css);
+@import url(./_order/review__cell_order_last.css);
+
+.review__cell {
+  min-height: 330px;
+  background: #FFFFFF;
+  box-shadow: 0px 20px 0px rgba(50, 10, 105, 0.3);
+  border-radius: 20px;
+  position: relative;
+  display: flex;
+  flex-shrink: 0;
+  border: 1px solid #9C69E2;
+  margin-right: 20px;
+}

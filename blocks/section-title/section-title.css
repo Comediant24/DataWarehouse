@@ -1,0 +1,9 @@
+@import url(./_color/section-title_color_white.css);
+@import url(./_color/section-title_color_dark.css);
+
+.section-title {
+  font-family: helvetica, sans-serif;
+  font-size: 40px;
+  line-height: 130%;
+  margin: 0;
+}

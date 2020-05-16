@@ -1,0 +1,11 @@
+@import url(./__title/description__title.css);
+@import url(./__text/description__text.css);
+@import url(./__image/description__image.css);
+
+.description {
+  margin: 120px auto 0;
+  background: rgba(240, 99, 184, 0.15);
+  border-radius: 50px;
+  display: flex;
+  transform: translate(100px);
+}

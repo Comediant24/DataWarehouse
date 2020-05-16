@@ -1,0 +1,10 @@
+@import url(./__position/slide__position.css);
+@import url(./__dot-link/slide__dot-link.css);
+@import url(./__arrows/slide__arrows.css);
+@import url(./__arrow-link/);
+
+.slide__controll {
+  display: flex;
+  justify-content: space-between;
+  margin: 58px 76px 58px 93px;
+}

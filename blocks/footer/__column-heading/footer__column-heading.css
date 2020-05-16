@@ -1,0 +1,9 @@
+.footer__column-heading {
+  font-family: Avenir-Heavy, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 160%;
+  color: #212353;
+  margin: 10px 0 40px 0;
+}

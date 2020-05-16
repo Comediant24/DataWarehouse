@@ -1,0 +1,9 @@
+@import url(./_order/review__user-photo_order_first.css);
+@import url(./_order/review__user-photo_order_last.css);
+
+.review__user-photo {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-image: cover;
+}

@@ -1,0 +1,14 @@
+@import url(./_demo/button_demo.css);
+@import url(./_preview/button_preview.css);
+@import url(./__text/button__text.css);
+@import url(./__arrow/button__arrow.css);
+
+.button {
+  min-width: 170px;
+  min-height: 60px;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+}

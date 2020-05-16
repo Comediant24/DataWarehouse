@@ -1,0 +1,12 @@
+.review__occupation {
+  font-family: Avenir, sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+  color: #9C69E2;
+  margin: 0;
+  text-decoration: none;
+}

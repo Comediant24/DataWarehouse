@@ -1,0 +1,9 @@
+@import url(./__text/demo__text.css);
+@import url(./__subtitle/demo__subtitle.css);
+
+.demo {
+  margin-top: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

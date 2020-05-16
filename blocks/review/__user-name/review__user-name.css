@@ -1,0 +1,10 @@
+.review__user-name {
+  font-family: Avenir, sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.005em;
+  margin: 0;
+}

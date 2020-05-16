@@ -1,0 +1,5 @@
+.button__text_color_black {
+  color: #212353;
+  transition: color 0.2s linear; 
+}
+

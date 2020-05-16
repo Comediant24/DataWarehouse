@@ -1,0 +1,12 @@
+.button_demo {
+  background-color: #FFFFFF;
+  transition: background-color 0.2s linear; 
+}
+
+.button_demo:hover {
+  background-color: #F063B8;
+}
+
+.button_demo:hover .button__text_color_black {
+  color: #FFFFFF;
+}

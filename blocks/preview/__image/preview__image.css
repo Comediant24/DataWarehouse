@@ -1,0 +1,8 @@
+.preview__image {
+  position: absolute;
+  width: 885px;
+  height: 468px;
+  right: -100px;
+  top: 96px;
+  z-index: -1;
+}

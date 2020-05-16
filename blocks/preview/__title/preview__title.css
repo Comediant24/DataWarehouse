@@ -1,0 +1,10 @@
+.preview__title {
+  width: 645px;
+  min-height: 184px;
+  font-family: helvetica-bold, Avenir, sans-serif;
+  font-style: normal;
+  font-size: 80px;
+  line-height: 110%;
+  color: #212353;
+  margin: 0;
+}

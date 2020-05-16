@@ -1,0 +1,12 @@
+@import url(./__cell/review__cell.css);
+@import url(./__content/review__content.css);
+@import url(./__user-name/review__user-name.css);
+@import url(./__occupation/review__occupation.css);
+@import url(./__text/review__text.css);
+@import url(./__text-background/review__text-background.css);
+@import url(./__user-photo/review__user-photo.css);
+
+.review {
+  display: flex;
+  margin-left: 93px;
+}
